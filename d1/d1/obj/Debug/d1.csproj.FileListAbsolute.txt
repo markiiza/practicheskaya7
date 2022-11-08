@@ -1,0 +1,16 @@
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\bin\Debug\d1.exe.config
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\bin\Debug\d1.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\bin\Debug\d1.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\MainWindow.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\App.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1_MarkupCompile.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1_MarkupCompile.lref
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\MainWindow.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.g.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\d1\d1\obj\Debug\d1.pdb
